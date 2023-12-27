@@ -1,0 +1,34 @@
+#treesitter
+TSInstallInfo = for treesitter installed language
+TSInstall <language name> = install new language
+[c,cpp,gitignore,go,gomod,json,markdown,rust,sql,tsx,typescript,yaml,javascript,html,css] = need to install
+
+
+#project folder structure
+ctrl + n = project structure
+press m = mark file
+press a = new file
+press c = copy file
+press p = paste file
+press r = rename file
+
+#utils
+space ff = find files menu
+space fb = find files in open buffers
+space ch = cheatsheet
+space n = show line number
+space rn = relative line number
+
+#tabbar
+tab to move
+shift tab to reverse move
+space x to close all
+
+# terminal
+space v
+space h
+
+# chatgpt
+:ChatGPT
+
+:LspInfo
